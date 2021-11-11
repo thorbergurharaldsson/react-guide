@@ -1,8 +1,9 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 
 const QrCodeMaker = () => {
   const [qrLink, setQrLink] = useState();
 
+  // takes an input and creates a Qr Code from it using a freetool called qrtag.com
   return (
     <>
       <input
