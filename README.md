@@ -13,7 +13,7 @@ I created this project using an [api for currency in relation to ISK](http://doc
 
 ## Usage
 
-[Live link](https://react.thorbergur.me/)
+[Live link](https://thha-first-react-app.herokuapp.com/)
 
 To try this on your local computer use the following commands in the terminal:
 
